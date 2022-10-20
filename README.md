@@ -5,7 +5,7 @@
 - 😎 In 2022, I interned at Meta, where I developed for the VR system platform of the Oculus Quest.
 - 📺 In 2021, I interned at Facebook, where I designed and built an anime-tracking Android app.
 - 📈 In 2020, I interned at iKala, where I built ML pipelines to analyze social media content.
-- 🎨 I am an engineer AND an artist! I create sculptures and mixed media art, and I practice Chinese calligraphy.
+- 🎨 I am an engineer and an artist! I practice Chinese calligraphy and create sculptures and mixed media art.
 - 😄 Pronouns: she/her
 - 📫 Feel free to reach out to me at kathchen@stanford.edu!
 
