@@ -1,12 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Katherine 👋
 
-I'm Katherine, a computer science student at Stanford University.
-
-- 🧑‍🎓 I am currently a coterm (BS '23, MS '24) in Computer Science specializing in HCI, graphics, and AI.
+- 🧑‍🎓 I am a student at Stanford studying computer science.
 - 🌱 I am passionate about building joyful experiences and user facing products!
-- 😎 In 2022, I was a SWE at Meta, where I developed for the VR system platform of the Oculus Quest.
-- 📺 In 2021, I was a FBU Engineering Intern at Facebook, where I designed and built an anime-tracking Android app.
-- 📈 In 2020, I was a Data Science Intern at iKala, where I built ML pipelines to analyze social media content.
+- 😎 In 2022, I interned at Meta, where I developed for the VR system platform of the Oculus Quest.
+- 📺 In 2021, I interned at Facebook, where I designed and built an anime-tracking Android app.
+- 📈 In 2020, I interned at iKala, where I built ML pipelines to analyze social media content.
 - 🎨 I am an engineer AND an artist! I create sculptures and mixed media art, and I practice Chinese calligraphy.
 - 😄 Pronouns: she/her
 - 📫 Feel free to reach out to me at kathchen@stanford.edu!
