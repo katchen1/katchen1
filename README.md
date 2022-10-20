@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Katherine, a computer science student at Stanford University.
+
+- 🧑‍🎓 I am a coterm (BS '23, MS '24) in Computer Science specializing in HCI, graphics, and AI.
+- 🔥 I am passionate about building joyful experiences and user facing products!
+- 😎 In summer 2022, I was a Software Engineer Intern at Meta, where I developed for the VR system platform of the Oculus Quest.
+- 📺 In summer 2021, I was a FBU Engineering Intern at Facebook (now Meta), where I designed and built an anime-tracking Android app.
+- 📈 In summer and winter 2020, I was a Data Science Intern at iKala, where I built ML pipelines to analyze social media content.
+- 🎨 I am an engineer AND an artist! I create sculptures, mixed media art, and Chinese calligraphy (won national competitions in Taiwan).
+- 👋  Feel free to reach out to me at kathchen@stanford.edu!
+
 <!--
 **katchen1/katchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
