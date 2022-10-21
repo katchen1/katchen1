@@ -1,6 +1,6 @@
 ### Hi there, I'm Katherine 👋
 
-- 🧑‍🎓 I am a student at Stanford studying computer science.
+- 🧑‍🎓 I am a student at Stanford studying computer science specializing in HCI and Real-World Computing.
 - 🌱 I am passionate about building joyful experiences and user facing products!
 - 😎 In 2022, I interned at Meta, where I developed for the VR system platform of the Oculus Quest.
 - 📺 In 2021, I interned at Facebook, where I designed and built an anime-tracking Android app.
