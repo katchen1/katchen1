@@ -2,6 +2,7 @@
 
 - 🧑‍🎓 I am a student at Stanford studying computer science specializing in HCI and Real-World Computing.
 - 🌱 I am passionate about building joyful experiences and user facing products!
+- 📸 In 2023, I interned at Verkada, where I implemented and shipped new features for the Verkada Command Android mobile app.
 - 😎 In 2022, I interned at Meta, where I developed for the VR system platform of the Oculus Quest.
 - 📺 In 2021, I interned at Facebook, where I designed and built an anime-tracking Android app.
 - 📈 In 2020, I interned at iKala, where I built ML pipelines to analyze social media content.
