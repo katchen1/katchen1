@@ -1,6 +1,6 @@
 ### Hi there, I'm Katherine 👋
-
-- 🧑‍🎓 I am a student at Stanford studying computer science specializing in HCI and Real-World Computing.
+- 👩‍💻 I'm currently a software engineer at Scale AI.
+- 🧑‍🎓 Previously, I was a student at Stanford studying computer science specializing in HCI and Visual Computing.
 - 🌱 I am passionate about building joyful experiences and user facing products!
 - 📸 In 2023, I interned at Verkada, where I implemented and shipped new features for the Verkada Command Android mobile app.
 - 😎 In 2022, I interned at Meta, where I developed for the VR system platform of the Oculus Quest.
@@ -8,7 +8,7 @@
 - 📈 In 2020, I interned at iKala, where I built ML pipelines to analyze social media content.
 - 🎨 I am an engineer and an artist! I practice Chinese calligraphy and create sculptures and mixed media art.
 - 😄 Pronouns: she/her
-- 📫 Feel free to reach out to me at kathchen@stanford.edu!
+- 📫 Feel free to reach out to me at katherinechendeveloper@gmail.com!
 
 <!--
 **katchen1/katchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
