@@ -1,9 +1,3 @@
-### Hi there, I'm Katherine 👋
-- 👩‍💻 I'm currently a software engineer at Scale AI.
-- 🧑‍🎓 Previously, I was a student at Stanford studying computer science specializing in HCI and Visual Computing.
-- 🌱 I am passionate about building joyful experiences and user facing products!
-- 😄 Pronouns: she/her
-
 <!--
 **katchen1/katchen1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
